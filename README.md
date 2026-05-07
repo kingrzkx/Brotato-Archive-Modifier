@@ -40,7 +40,7 @@ Clean, bilingual save editor for Brotato (v1.1.14.6 compatible).
 4. Select your `run_v3_0.json` save file.
 5. Modify values as needed.
 6. Save changes.
-7. **Fully close the modifier.**
+7. Fully close the modifier.
 8. Launch Brotato again.
 9. If a save conflict prompt appears, choose **Upload local save to cloud**.
 10. Enjoy your modified game!
