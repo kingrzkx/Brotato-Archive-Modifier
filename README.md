@@ -46,6 +46,11 @@ Clean, bilingual save editor for Brotato (v1.1.14.6 compatible).
 10. Enjoy your modified game!
 
 ---
+## 💡 Save Path Tip
+Default save location:
+C:\Users\yourusername\AppData\Roaming\Brotato\somenumbers(example 8c882a6d.............)\run_v3_0.json
+
+---
 
 ## 📄 License
 MIT © kingrzkx
