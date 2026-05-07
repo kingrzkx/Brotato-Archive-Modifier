@@ -1,16 +1,15 @@
 # Brotato Archive Modifier ✅
-
-A clean, beautiful, bilingual (CN/EN) save editor for Brotato.  
 **Powered by kingrzkx**
+
+Clean, bilingual save editor for Brotato (v1.1.14.6 compatible).
 
 ---
 
 ## ✨ Features
-- 🌍 **Bilingual UI** (Chinese / English)
-- 🎯 **1:1 Stat Matching** (Input values are reflected exactly in-game)
-- 🎨 Modern & clean interface
-- 🚀 Packaged as a single `.exe` (No Python required)
-- 🔒 Safe & open-source
+- 🌍 CN/EN bilingual UI
+- 🎯 1:1 stat matching
+- 🎨 Modern & minimal design
+- 🚀 Single `.exe` release
 
 ---
 
@@ -27,49 +26,24 @@ A clean, beautiful, bilingual (CN/EN) save editor for Brotato.
 
 ---
 
-## 🚀 How to Use
-1. Run the tool and select your `run_v3_0.json` save file.
-2. Modify the values you want.
-3. Click "Save Changes".
-4. Launch Brotato and enjoy!
-
----
-
-## 📄 License
-MIT © kingrzkx# Brotato Archive Modifier ✅
-
-A clean, beautiful, bilingual (CN/EN) save editor for Brotato.  
-**Powered by kingrzkx**
-
----
-
-## ✨ Features
-- 🌍 **Bilingual UI** (Chinese / English)
-- 🎯 **1:1 Stat Matching** (Input values are reflected exactly in-game)
-- 🎨 Modern & clean interface
-- 🚀 Packaged as a single `.exe` (No Python required)
-- 🔒 Safe & open-source
-
----
-
-## 📦 Supported Attributes
-- Gold
-- Level
-- Max Health
-- Area
-- Engineering
-- Damage %
-- Move Speed %
-- Item Cost
-- Consumable Heal
+## 📸 Preview
+| Program UI | Save Conflict Prompt |
+|------------|---------------------|
+| ![Program Interface](preview1.png) | ![Conflict Selection](preview2.png) |
 
 ---
 
 ## 🚀 How to Use
-1. Run the tool and select your `run_v3_0.json` save file.
-2. Modify the values you want.
-3. Click "Save Changes".
-4. Launch Brotato and enjoy!
+1. Launch Brotato (v1.1.14.6), complete the first wave and save your progress.
+2. Fully exit the game.
+3. Run `BrotatoArchiveModifier.exe`.
+4. Select your `run_v3_0.json` save file.
+5. Modify values as needed.
+6. Save changes.
+7. **Fully close the modifier.**
+8. Launch Brotato again.
+9. If a save conflict prompt appears, choose **Upload local save to cloud**.
+10. Enjoy your modified game!
 
 ---
 
